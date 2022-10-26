@@ -2,29 +2,21 @@
 
 [![linkedin badge](https://img.shields.io/badge/dev-Paulo?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulo-renato-55b9a0189/)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Paulo" alt="PauloRenato" /> </p>
+
 I'm a self taught programmer who has a background in UI/UX Design. Currently working with Frontend, giving life to the designs I build.
 <br>
-<br>
 
-<img align='left' src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="340" height="210">
+- 🌱 I’m currently learning ** React-Native, Node.js **
+- ⚡ Fun fact: I love to play guitar, video games, learn about hacking.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img align='center' src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="340" height="210">
 <br>
 
 <h3 align="left">Languages and tools that I use and know:</h3>
 <p align="left"><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/color/48/bootstrap.png"/><img src="https://img.icons8.com/color/48/typescript.png"/><img src="https://img.icons8.com/color/48/javascript--v1.png"/><img src="https://img.icons8.com/color/48/chakra-ui.png"/><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
-<img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
- </p>
-
+<img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/></p>
 <br>
-
 
 <img src = "https://github-readme-stats.vercel.app/api?username=dev-Paulo&show_icons=true&theme=dark" width = 500>
 
