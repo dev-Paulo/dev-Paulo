@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/dev-Paulo/">Paulo Renato </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/dev-Paulo?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulo-renato-55b9a0189/)
+[![linkedin badge](https://img.shields.io/badge/dev-Paulo?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulorenatooli/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Paulo" alt="PauloRenato" /> </p>
 
