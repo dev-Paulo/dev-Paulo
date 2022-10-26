@@ -23,7 +23,7 @@ I'm a self taught programmer who has a background in UI/UX Design. Currently wor
  </p>
 
 <br>
-<br>
+
 
 <img src = "https://github-readme-stats.vercel.app/api?username=dev-Paulo&show_icons=true&theme=dark" width = 500>
 
