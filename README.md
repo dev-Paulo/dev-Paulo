@@ -4,6 +4,7 @@
 
 I'm a self taught programmer who has a background in UI/UX Design. Currently working with Frontend, giving life to the designs I build.
 <br>
+<br>
 
 <img align='left' src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="340" height="210">
 
