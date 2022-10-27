@@ -10,7 +10,7 @@ I'm a self taught programmer who has a background in UI/UX Design. Currently wor
 - 🌱 I’m currently learning ** React-Native, Node.js **
 - ⚡ Fun fact: I love to play guitar, video games, learn about hacking.
 
-<img align='center' src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="340" height="210">
+<img align='center' src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="540" height="auto">
 <h3 align="left">Languages and tools that I use and know:</h3>
 <p align="left"><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/color/48/bootstrap.png"/><img src="https://img.icons8.com/color/48/typescript.png"/><img src="https://img.icons8.com/color/48/javascript--v1.png"/><img src="https://img.icons8.com/color/48/chakra-ui.png"/><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"/>
 <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/></p>
