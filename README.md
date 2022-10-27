@@ -1,6 +1,6 @@
 <h1>Hey there, I'm <a  href="https://github.com/dev-Paulo/">Paulo Renato </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-[![linkedin badge](https://img.shields.io/badge/dev-Paulo?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulorenatooli/)
+[![linkedin badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulorenatooli/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Paulo" alt="PauloRenato" /> </p>
 
@@ -16,7 +16,7 @@ I'm a self taught programmer who has a background in UI/UX Design. Currently wor
 <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/></p>
 <br>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=dev-Paulo&show_icons=true&theme=dark" width = 500>
+<!-- <img src = "https://github-readme-stats.vercel.app/api?username=dev-Paulo&show_icons=true&theme=dark" width = 500> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Paulo&theme=dark)](https://github.com/dev-Paulo/github-readme-stats)
 
