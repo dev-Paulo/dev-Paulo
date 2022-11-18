@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Paulo" alt="PauloRenato" /> </p>
 
-I'm a self taught programmer who has a background in UI/UX Design. Currently working with Frontend, giving life to the designs I build.
+I'm a self taught programmer who has a background in UI/UX Design. Currently working with Frontend, giving life to the designs that I create.
 <br>
 
 - 🌱 I’m currently learning ** React-Native, Node.js **
